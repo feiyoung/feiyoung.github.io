@@ -24,4 +24,4 @@ If you want to use an image in your blog post, you should use the `_plugins/imag
 Hey Nerd! How is it? You're analyzing me, but are not you using me? Use me now! I'm not into embellishment.
 
 
-[Download](https://github.com/williamcanin/typing-jekyll-template){: target="_blank"}{: .btn-typing}
+[DownLoad](https://github.com/williamcanin){: target="_blank"}{: .btn-typing}
