@@ -1,13 +1,13 @@
-ï»¿---
+---
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2018-02-03 10:22:16 -0300
-tags: ["example","welcome","jekyll","typing","Ã¶zel-bitcoin-adresi"]
+tags: ["example","welcome","jekyll","typing","?zel-bitcoin-adresi"]
 published: true
 comments: true
 script: [post.js]
 excerpted: |
-    Youâ€™ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site ...
+    You¡¯ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site ...
 day_quote:
   title: The word of the day!
   description: |
@@ -22,7 +22,7 @@ Hi! :hand:
 
 [Emoji Syntax](https://www.webpagefx.com/tools/emoji-cheat-sheet/){:target="_blank"}
 
-Youâ€™ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+You¡¯ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
@@ -36,7 +36,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs]{:target="_blank"} for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyllâ€™s GitHub repo][jekyll-gh]{:target="_blank"}. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk]{:target="_blank"}.
+Check out the [Jekyll docs][jekyll-docs]{:target="_blank"} for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll¡¯s GitHub repo][jekyll-gh]{:target="_blank"}. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk]{:target="_blank"}.
 
 # Examples
 <br>
@@ -71,9 +71,7 @@ Content in the first column | Content in the second column
 
 > We're living the future so the present is our past.
 
-## Image responsive (plugin Imager)
 
-{% imager typing_logotype.png|center %}
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eaque, temporibus quia praesentium dolores repellat minus corporis illo sequi ab numquam laborum blanditiis eveniet. Unde libero ex qui quas temporibus.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commodi eaque, temporibus quia praesentium dolores repellat minus corporis illo sequi ab numquam laborum blanditiis eveniet. Unde libero ex qui quas temporibus.
