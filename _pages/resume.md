@@ -51,13 +51,13 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias eum, quae delect
 
 ### Ipsum Dolor
 
-*Lorem, Lorem â€?Lorem Ipsum â€?4*
+*Lorem, Lorem *
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias quod voluptatum earum asperiores esse labore impedit eos cum obcaecati unde sequi ad beatae magni aut iure, dolorum doloribus nulla, officia!
 
 ### Ipsum Dolor
 
-*Lorem, Lorem â€?Lorem Ipsum â€?4*
+*Lorem, Lorem *
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias quod voluptatum earum asperiores esse labore impedit eos cum obcaecati unde sequi ad beatae magni aut iure, dolorum doloribus nulla, officia!
 
