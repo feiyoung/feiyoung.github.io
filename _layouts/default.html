@@ -1,46 +1,34 @@
----
-layout: compress
----
-
-<!-- Include Data Base  -->
-{% include liquid/data %}
-
-
-{% if site.maintenance.enable == true %}
-
-  {% include maintenance.html %}
-
-{% else %}
-
 <!DOCTYPE html>
 <html>
-  {% include partials/head.html %}
-<body id="top">
-
-  <div class="layout_default layout_default__bg">
-
-    <div class="container layout_default__container">
-
-      <div class="row">
-
-        <div class="p-0 col-lg-3 sidebar sidebar__bg">
-          {% include partials/sidebar.html %}
-        </div>
-
-        <div class="pt-4 pt-lg-0 col-lg-9 border-l-dashed border-r-dashed layout_default__content">
-          {{ content }}
-        </div>
-
-      </div>
-
-    </div>
+  <head>
+    <title>{{ page.title }}</title>
+    
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+  
+  </head>
 
 
-  </div>
+  <body>
+    <nav>
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/about">About</a></li>
+<li><a href="/cv">CV</a></li>
+<li><a href="/blog">Blog</a></li>
+</ul>
+    </nav>
+<div class="container">
 
-  {% include partials/footer.html %}
-  {% include partials/scripts/default.html %}
-</body>
+  {{ content }}
+
+</div>
+  
+  <footer>
+   <ul>
+   <li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
+   <li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+   </ul>
+  </footer>
+  </body>
+
 </html>
-
-{% endif %}
