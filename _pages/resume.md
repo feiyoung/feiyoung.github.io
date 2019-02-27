@@ -51,13 +51,13 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias eum, quae delect
 
 ### Ipsum Dolor
 
-*Lorem, Lorem â€” Lorem Ipsum â€˜14*
+*Lorem, Lorem â€?Lorem Ipsum â€?4*
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias quod voluptatum earum asperiores esse labore impedit eos cum obcaecati unde sequi ad beatae magni aut iure, dolorum doloribus nulla, officia!
 
 ### Ipsum Dolor
 
-*Lorem, Lorem â€” Lorem Ipsum â€˜14*
+*Lorem, Lorem â€?Lorem Ipsum â€?4*
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias quod voluptatum earum asperiores esse labore impedit eos cum obcaecati unde sequi ad beatae magni aut iure, dolorum doloribus nulla, officia!
 
@@ -65,19 +65,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias quod voluptatum 
 
 #### **Front end**
 
-{% badge HTML5|16px %}
-{% badge CSS3|16px %}
-{% badge Bootstrap|16px %}
-{% badge Javascript/ES6|16px %}
-{% badge Responsive Web Design|16px %}
-{% badge Webpack|16px %}
-{% badge BEM|16px %}
-{% badge AngularJS|16px %}
-{% badge React|16px %}
-{% badge SASS|16px %}
-{% badge Gulp|16px %}
-{% badge NodeJS|16px %}
-{% badge NPM|16px %}
 
 ## Projects
 
