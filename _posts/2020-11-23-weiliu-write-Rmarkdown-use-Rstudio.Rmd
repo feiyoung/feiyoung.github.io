@@ -1,20 +1,8 @@
 ---
+layout: post
 title: "Use of Rmarkdown: taking GFM package as an example"
 author: "Wei Liu"
 date: '2020-11-23'
-output:
-  html_document:
-    fig_caption: yes
-    highlight: pygments
-    theme: cerulean
-    toc: yes
-  word_document:
-    toc: yes
-  pdf_document: 
-    highlight: kate
-    number_sections: yes
-    toc: yes
-    toc_depth: 5
 ---
 # Introduction of Rmarkdown
 In this section, we briefly introduce some features of Rmarkdown.The Laguage of Rmarkdown is similar to that of Markdown, which is very easy to learn and write it.
