@@ -5,6 +5,7 @@ author: "Wei Liu"
 date: '2020-11-23'
 ---
 # Introduction of Rmarkdown
+
 In this section, we briefly introduce some features of Rmarkdown.The Laguage of Rmarkdown is similar to that of Markdown, which is very easy to learn and write it.
 
 ## Creating Rmarkdown file in Rstudio
