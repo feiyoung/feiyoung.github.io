@@ -3,10 +3,14 @@ layout: page
 title: Software
 ---
 
-[Lamian](https://winnie09.github.io/Wenpin_Hou/pages/Lamian.html): **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.C.\*, and Ji, H.\* A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples.  *in review*
+[ILSE](https://github.com/feiyoung/ILSE): This is an R package for Iterative Least Square Estimation or Full Information Maximum Likelihood estimation and inference for Linear Regression when data include missing values.
+
+Huazhen Lin, Wei Liu, & Wei Lan (2021). Regression Analysis with individual-specific patterns of missing covariates. Journal of Business & Economic Statistics, 39(1), 179-188.
 
 
-[SCATE](https://github.com/Winnie09/SCATE), [SCATEData](https://github.com/Winnie09/SCATEData):  Ji, Z., Zhou, W., **Hou, W.** and Ji, H.\*, (2020). SCATE: Single-cell ATAC-seq Signal Extraction and Enhancement. *Genome Biology*, 21,161 (2020). doi: [10.1186/s13059-020-02075-3](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02075-3). PMID: 32620137. PMCID: PMC7333383.
+[GFM](https://github.com/feiyoung/GFM): This is an R package for ultrahigh-dimension reduction and nonlinear feature extractionis via a Generalized factor model that can handle ultra-high dimensional variables with mixed types. Moreover, [GFM MATLAB toolbox](https://github.com/feiyoung/MGFM) is also provided and runs faster in MATLAB environment.
+
+Wei Liu, Huazhen Lin, Shurong Zheng & Jin Liu (2021) . Generalized factor model for ultra-high dimensional mixed data. Journal of the American Statistics Association (Online).
 
 
-[scubi](https://winnie09.github.io/Wenpin_Hou/pages/SCUBI.html):  **Hou, W.**, Ji, Z. (2021). Single-cell Unbiased Visualization with SCUBI.  *in press in Cell Reports Methods*.
+[nptvcmPD](https://github.com/feiyoung/nptvcmPD): This  is an R package simplified from NonParametric Time-Varying Coefficient Model for Panel Data (nptvcmPD). Nonparametric time-varying coefficients model based penalty for longitudinal data with pre-specified finite time points, also known as panel data.
