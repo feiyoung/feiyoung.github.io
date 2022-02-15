@@ -1,37 +1,6 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>{{ page.title }}</title>
-    
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
-  
-  </head>
-
-
-  <body>
-    <nav>
-<ul>
-<li><a href="/">Home</a></li>
-<li><a href="/about">About</a></li>
-<li><a href="/cv">CV</a></li>
-<li><a href="/publications">Publications</a></li>
-<li><a href="/software">Software</a></li>
-<li><a href="https://weiliu.netlify.app/">Blog</a></li>
-<li><a href="/websites">Websites</a></li>
-</ul>
-    </nav>
-<div class="container">
-
-  {{ content }}
-
-</div>
-  
-  <footer>
-   <ul>
-   <li><a href="mailto:weiliu@smail.swufe.edu.cn">email</a></li>
-   <li><a href="https://github.com/feiyoung">github.com/feiyoung</a></li>
-   </ul>
-  </footer>
-  </body>
-
-</html>
+---
+theme :
+  name : twitter
+---
+{% include JB/setup %}
+{% include themes/twitter/default.html %}
