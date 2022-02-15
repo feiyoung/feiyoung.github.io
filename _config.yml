@@ -8,15 +8,14 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Wenpin Hou
+title : Wei Liu
 author :
-  name : Wenpin Hou
-  email : whou10@jhu.edu
-  github : Winnie09
-  twitter : HWenpin
+  name : Wei Liu
+  email : wei.liu@duke-nus.edu.sg
+  github : feiyoung
 
 # NOTE: Replacing this next line with your own URL
-production_url : https://winnie09.github.io/Wenpin_Hou
+production_url : https://feiyoung.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -51,7 +50,7 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: Replace this next line with your own URL, likely with username.github.io
-  BASE_PATH : https://winnie09.github.io/Wenpin_Hou
+  BASE_PATH : https://feiyoung.github.io
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
