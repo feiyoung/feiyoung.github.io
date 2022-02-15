@@ -32,7 +32,7 @@ Singapore, 169857
 </div>
 <div class="span3" markdown="1">
 
-<img src="images/me.jpg" alt="WeiLiu photo" width="190">
+<img src="images/me.jpg" alt="WeiLiu photo" width="170">
 
 </div>
 </div>
