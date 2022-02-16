@@ -25,6 +25,7 @@ Singapore, 169857
 
 <img src="images/envelope.svg" alt="Email logo" width="20"> [Email:]()wei.liu@duke-nus.edu.sg <br/>
 <img src="images/github.svg" alt="GitHub logo" width="20"> [GitHub: `feiyoung`](https://github.com/feiyoung)
+<img src="images/github.svg" alt="GitHub logo" width="20"> [Personal Blog](https://weiliu.netlify.app/)
 
 
 </div>
