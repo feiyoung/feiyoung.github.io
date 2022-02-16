@@ -16,10 +16,14 @@ developing computational and statistical methods for interpreting high-throughpu
 
 ### Grants
 
- **NIH No12344555**, NIH/NHGRI, 1/2020 - 12/2020
+**No.113610004007000040**, Excellent Doctoral Dissertation Project, SWUFE, 1/2020 - 12/2020
 
- Title: data integration.
+Title: Theory and Application of High-dimensional Latent Factor Models
 
 Role: principal investigator
 
+**No.11931014**, National Natural Science Foundation of China, 1/2020-12/2024
 
+Title: XX
+
+Role: participant

@@ -4,7 +4,7 @@ title: Publications
 ---
 
 <!--Key publications are described in more detail on the [Research](research.html) page.--> 
-For a complete list of publications, see also [Google Scholar](https://scholar.google.com.hk/citations?user=1wVQpBUAAAAJ&hl=en).
+For a complete list of publications, see also [ResearchGate](https://www.researchgate.net/profile/Liu-Wei-59).
 
 
 
@@ -23,13 +23,13 @@ Provinces in China.  <a href="https://www.medrxiv.org/content/10.1101/2020.02.21
 
 ##### Statistical Method in Missing Data 
 
-- Huazhen Lin\*, **Wei Liu**, & Wei Lan (2021).</strong>   Regression Analysis with individual-specific patterns of missing covariates. Journal of Business & Economic Statistics, 39(1), 179-188. [PDF](https://www.tandfonline.com/doi/full/10.1080/07350015.2019.1635486), [CRAN R package](https://CRAN.R-project.org/package=ILSE), [Github R package](https://github.com/feiyoung/ILSE).
+- Huazhen Lin\*, **Wei Liu**, & Wei Lan (2021).   Regression Analysis with individual-specific patterns of missing covariates. Journal of Business & Economic Statistics, 39(1), 179-188. [PDF](https://www.tandfonline.com/doi/full/10.1080/07350015.2019.1635486), [CRAN R package](https://CRAN.R-project.org/package=ILSE), [Github R package](https://github.com/feiyoung/ILSE).
 
 
 
 ##### Genomics (Dimension reduction or Spatial clustering)
 
-- Yi Yang, Xingjie Shi, **Wei Liu**, et.al & Jin Liu\* (2021)</strong>. SC-MEB: spatial clustering with hidden Markov random field using empirical Bayes. Briefings in Bioinformatics,  <a href="https://doi.org/10.1093/bib/bbab466">PDF</a>, <a href="https://CRAN.R-project.org/package=SC.MEB"> CRAN R package</a>.
+- Yi Yang, Xingjie Shi, **Wei Liu**, et.al & Jin Liu\* (2021). SC-MEB: spatial clustering with hidden Markov random field using empirical Bayes. Briefings in Bioinformatics,  <a href="https://doi.org/10.1093/bib/bbab466">PDF</a>, <a href="https://CRAN.R-project.org/package=SC.MEB"> CRAN R package</a>.
   
 
 ##### Others
