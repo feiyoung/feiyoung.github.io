@@ -19,7 +19,7 @@ Provinces in China.  <a href="https://www.medrxiv.org/content/10.1101/2020.02.21
 ### Published
 ##### Dimension Reduction
 
-- **Wei Liu**, Huazhen Lin\*, Shurong Zheng & Jin Liu (2021) . Generalized factor model for ultra-high dimensional mixed data. Journal of the American Statistics Association (Online). [PDF](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1999818), [Matlab tool](https://github.com/feiyoung/MGFM), [CRAN R package](https://CRAN.R-project.org/package=GFM), [Github R package](https://github.com/feiyoung/GFM).
+- **Wei Liu**, Huazhen Lin\*, Shurong Zheng & Jin Liu (2021). Generalized Factor Model for Ultra-High Dimensional Correlated Variables with Mixed Types. Journal of the American Statistics Association (Online). [PDF](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1999818), [Matlab tool](https://github.com/feiyoung/MGFM), [CRAN R package](https://CRAN.R-project.org/package=GFM), [Github R package](https://github.com/feiyoung/GFM).
 
 ##### Statistical Method in Missing Data 
 
