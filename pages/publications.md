@@ -10,7 +10,7 @@ For a complete list of publications, see also [ResearchGate](https://www.researc
 
 ### Preprint
 
-- **Wei Liu**, Xu Liao, Xiang Zhou, Xingjie Shi & Jin Liu\* (2021). Joint dimension reduction and clustering analysis for single-cell RNA-seq and spatial transcriptomics data. <a href="https://www.biorxiv.org/content/10.1101/2021.12.25.474153v3.full.pdf">PDF</a>, <a href="https://CRAN.R-project.org/package=DR.SC"> CRAN R package</a>  and <a href="https://github.com/feiyoung/DR.SC"> Github R package</a>.
+- **Wei Liu**, Xu Liao, Yi Yang, Huazhen Lin, Joe Yeong, Xiang Zhou\*, Xingjie Shi\* & Jin Liu\* (2021). Joint dimension reduction and clustering analysis for single-cell RNA-seq and spatial transcriptomics data. <a href="https://www.biorxiv.org/content/10.1101/2021.12.25.474153v3">PDF</a>, <a href="https://CRAN.R-project.org/package=DR.SC"> CRAN R package</a>  and <a href="https://github.com/feiyoung/DR.SC"> Github R package</a>.
  
 - Huazhen Lin, **Wei Liu**, Hong Gao, Jinyu Nie, Qiao Fan(2020). Trends in Transmissibility of 2019 Novel
 Coronavirus-infected Pneumonia in Wuhan and 29
