@@ -9,12 +9,12 @@ title: Software
 
 [ILSE](https://github.com/feiyoung/ILSE): This is an R package for Iterative Least Square Estimation or Full Information Maximum Likelihood estimation and inference for Linear Regression when data include missing values. Please see the following paper for details:
 
-[Huazhen Lin\*, Wei Liu, & Wei Lan (2021). Regression Analysis with individual-specific patterns of missing covariates. Journal of Business & Economic Statistics, 39(1), 179-188.](https://www.tandfonline.com/doi/full/10.1080/07350015.2019.1635486)
+[Huazhen Lin\*, **Wei Liu**, & Wei Lan (2021). Regression Analysis with individual-specific patterns of missing covariates. Journal of Business & Economic Statistics, 39(1), 179-188.](https://www.tandfonline.com/doi/full/10.1080/07350015.2019.1635486)
 
 
 [GFM](https://github.com/feiyoung/GFM): This is an R package for ultrahigh-dimension reduction and nonlinear feature extractionis via a Generalized factor model that can handle ultra-high dimensional variables with mixed types. Moreover, [GFM MATLAB toolbox](https://github.com/feiyoung/MGFM) is also provided and runs faster in MATLAB environment. Please see the following paper for details:
 
-[Wei Liu, Huazhen Lin\*, Shurong Zheng & Jin Liu (2021). Generalized Factor Model for Ultra-High Dimensional Correlated Variables with Mixed Types. Journal of the American Statistics Association (Online).](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1999818)
+[**Wei Liu**, Huazhen Lin\*, Shurong Zheng & Jin Liu (2021). Generalized Factor Model for Ultra-High Dimensional Correlated Variables with Mixed Types. Journal of the American Statistics Association (Online).](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1999818)
 
 
 [nptvcmPD](https://github.com/feiyoung/nptvcmPD): This  is an R package simplified from NonParametric Time-Varying Coefficient Model for Panel Data (nptvcmPD). Nonparametric time-varying coefficients model based penalty for longitudinal data with pre-specified finite time points, also known as panel data. Please see the following paper for details: 
