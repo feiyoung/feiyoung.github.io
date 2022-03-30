@@ -21,8 +21,7 @@ I received my PhD in [Statistics](https://csr.swufe.edu.cn/) with University Pos
     <tr>
         <td width="80%">
             <table>
-                <tr>
-                    Wei Liu, Ph.D. <br/>
+Wei Liu, Ph.D. <br/>
 [Center for Quantitative  Medicine](https://www.duke-nus.edu.sg/cqm) <br/>
 [Duke-NUS Medical School](https://www.duke-nus.edu.sg/) <br/>
 8 College Road, Level 6, Room 28<br/>
@@ -31,11 +30,10 @@ Singapore, 169857
 <img src="images/envelope.svg" alt="Email logo" width="20"> [Email:]()wei.liu@duke-nus.edu.sg <br/>
 <img src="images/github.svg" alt="GitHub logo" width="20"> [GitHub: `feiyoung`](https://github.com/feiyoung)
 <img src="images/github.svg" alt="GitHub logo" width="20"> [Personal Blog](https://weiliu.netlify.app/)
-                </tr>
             </table>
         </td>
         <td width="20%" height="100%">
-            <img src="images/me.jpg" alt="我的照片" style="zoom:25%;"/>
+            <img src="images/me.jpg" alt="我的照片" style="zoom:90%;"/>
         </td>
     </tr>
 </table>
