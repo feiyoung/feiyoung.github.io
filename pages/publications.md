@@ -10,8 +10,6 @@ For a complete list of publications, see also [ResearchGate](https://www.researc
 
 ### Preprint
 
-- **Wei Liu**, Xu Liao, Yi Yang, Huazhen Lin, Joe Yeong, Xiang Zhou\*, Xingjie Shi\* & Jin Liu\* (2021). Joint dimension reduction and clustering analysis for single-cell RNA-seq and spatial transcriptomics data. <a href="https://www.biorxiv.org/content/10.1101/2021.12.25.474153v3">PDF</a>, <a href="https://CRAN.R-project.org/package=DR.SC"> CRAN R package</a>  and <a href="https://github.com/feiyoung/DR.SC"> Github R package</a>.
- 
 - Huazhen Lin, **Wei Liu**, Hong Gao, Jinyu Nie, Qiao Fan(2020). Trends in Transmissibility of 2019 Novel
 Coronavirus-infected Pneumonia in Wuhan and 29
 Provinces in China.  <a href="https://www.medrxiv.org/content/10.1101/2020.02.21.20026468v1">PDF</a> . 
@@ -28,6 +26,8 @@ Provinces in China.  <a href="https://www.medrxiv.org/content/10.1101/2020.02.21
 
 
 ##### Genomics (Dimension reduction or Spatial clustering)
+
+- **Wei Liu**, Xu Liao, Yi Yang, Huazhen Lin, Joe Yeong, Xiang Zhou\*, Xingjie Shi\* & Jin Liu\* (2022). Joint dimension reduction and clustering analysis of single-cell RNA-seq and spatial transcriptomics data, Nucleic Acids Research, gkac219. [PDF](https://doi.org/10.1093/nar/gkac219), <a href="https://CRAN.R-project.org/package=DR.SC"> CRAN R package</a>  and <a href="https://github.com/feiyoung/DR.SC"> Github R package</a>.
 
 - Yi Yang, Xingjie Shi, **Wei Liu**, et.al & Jin Liu\* (2021). SC-MEB: spatial clustering with hidden Markov random field using empirical Bayes. Briefings in Bioinformatics,  <a href="https://doi.org/10.1093/bib/bbab466">PDF</a>, <a href="https://CRAN.R-project.org/package=SC.MEB"> CRAN R package</a>.
   
