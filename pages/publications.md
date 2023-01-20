@@ -26,6 +26,7 @@ Provinces in China.  <a href="https://www.medrxiv.org/content/10.1101/2020.02.21
 
 
 ##### Genomics (Dimension reduction or Spatial clustering)
+-  **Wei Liu**, Liao, X., Luo, Z. et al, Jin Liu\* (2023). Probabilistic embedding, clustering, and alignment for integrating spatial transcriptomics data with PRECAST. Nature Communications, 14, 296. [PDF](https://www.nature.com/articles/s41467-023-35947-w.pdf?pdf=button%20sticky), <a href="https://CRAN.R-project.org/package=PRECAST"> CRAN R package</a>  and <a href="https://github.com/feiyoung/PRECAST"> Github R package</a>.
 
 - **Wei Liu**, Xu Liao, Yi Yang, Huazhen Lin, Joe Yeong, Xiang Zhou\*, Xingjie Shi\* & Jin Liu\* (2022). Joint dimension reduction and clustering analysis of single-cell RNA-seq and spatial transcriptomics data, Nucleic Acids Research, gkac219. [PDF](https://doi.org/10.1093/nar/gkac219), <a href="https://CRAN.R-project.org/package=DR.SC"> CRAN R package</a>  and <a href="https://github.com/feiyoung/DR.SC"> Github R package</a>.
 
@@ -40,8 +41,9 @@ Provinces in China.  <a href="https://www.medrxiv.org/content/10.1101/2020.02.21
   
 
 ### Posters
+- A computational framework for integrating and analyzing multiple spatially resolved transcriptomics (SRT) datasets, callded PRECAST published on [Nature Communications](https://doi.org/10.1038/s41467-023-35947-w). Date: 2023-01-20.
 
-- A computational framework for joint dimension reduction and spatial clustering.
+- A computational framework for joint dimension reduction and spatial clustering, callded DR-SC published on [Nucleic Acids Research](https://doi.org/10.1093/nar/gkac219). Date: 2022-05-29.
 
 
 

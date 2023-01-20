@@ -2,6 +2,9 @@
 layout: page
 title: Software
 ---
+- [PRECAST](https://github.com/feiyoung/PRECAST): PRECAST is a package for integrating and analyzing multiple spatially resolved transcriptomics (SRT) datasets and unifies spatial factor analysis simultaneously with spatial clustering and embedding alignment, requiring only partially shared cell/domain clusters across datasets.. Please see the following paper for details: 
+[**Wei Liu**, Liao, X., Luo, Z. et al. Probabilistic embedding, clustering, and alignment for integrating spatial transcriptomics data with PRECAST. Nature Communications, 14, 296 (2023).](https://doi.org/10.1038/s41467-023-35947-w)
+
 
 - [DR.SC](https://github.com/feiyoung/DR.SC): This is an R package for Joint dimension reduction and spatial clustering is conducted for Single-cell RNA sequencing and spatial transcriptomics data. It is not only computationally efficient and scalable to the sample size increment, but also is capable of choosing the smoothness parameter and the number of clusters as well. Please see the following paper for details: 
 [**Wei Liu**, Xu Liao, Yi Yang, Huazhen Lin, Joe Yeong, Xiang Zhou\*, Xingjie Shi\* & Jin Liu\* (2022). Joint dimension reduction and clustering analysis of single-cell RNA-seq and spatial transcriptomics data, Nucleic Acids Research, gkac219.](https://doi.org/10.1093/nar/gkac219)
