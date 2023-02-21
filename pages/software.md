@@ -2,7 +2,9 @@
 layout: page
 title: Software
 ---
-- [PRECAST](https://github.com/feiyoung/PRECAST): PRECAST is a package for integrating and analyzing multiple spatially resolved transcriptomics (SRT) datasets and unifies spatial factor analysis simultaneously with spatial clustering and embedding alignment, requiring only partially shared cell/domain clusters across datasets.. Please see the following paper and pakage website for details: 
+- [iSC.MEB](https://xiaozhangryy.github.io/iSC.MEB/index.html): iSC.MEB is a package for integrating and analyzing multiple spatially resolved transcriptomics (SRT) datasets, which permits the users to simultaneously estimate the batch effect and perform spatial clustering for low-dimensional representations of multiple SRT datasets. Please see the following paper and pakage website for details: [Xiao Zhang, **Wei Liu**, Fangda Song, Jin Liu, iSC.MEB: an R package for multi-sample spatial clustering analysis of spatial transcriptomics data, Bioinformatics Advances, 2023;, vbad019](https://doi.org/10.1093/bioadv/vbad019) and [iSC.MEB's usage and applications](https://xiaozhangryy.github.io/iSC.MEB/index.html).
+
+- [PRECAST](https://github.com/feiyoung/PRECAST): PRECAST is a package for integrating and analyzing multiple spatially resolved transcriptomics (SRT) datasets and unifies spatial factor analysis simultaneously with spatial clustering and embedding alignment, requiring only partially shared cell/domain clusters across datasets. Please see the following paper and pakage website for details: 
 [**Wei Liu**, Liao, X., Luo, Z. et al. Probabilistic embedding, clustering, and alignment for integrating spatial transcriptomics data with PRECAST. Nature Communications, 14, 296 (2023).](https://doi.org/10.1038/s41467-023-35947-w) and [PRECAST's usage and applications](https://feiyoung.github.io/PRECAST/index.html).
 
 

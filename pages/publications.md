@@ -15,17 +15,22 @@ Coronavirus-infected Pneumonia in Wuhan and 29
 Provinces in China.  <a href="https://www.medrxiv.org/content/10.1101/2020.02.21.20026468v1">PDF</a> . 
 
 ### Published
-##### Dimension Reduction
+##### Statistical Method and Thoery
 
 - **Wei Liu**, Huazhen Lin\*, Shurong Zheng & Jin Liu (2021). Generalized Factor Model for Ultra-High Dimensional Correlated Variables with Mixed Types. Journal of the American Statistics Association (Online). [PDF](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1999818), [Matlab tool](https://github.com/feiyoung/MGFM), [CRAN R package](https://CRAN.R-project.org/package=GFM), [Github R package](https://github.com/feiyoung/GFM), and [GFM's usage and applications](https://feiyoung.github.io/GFM/docs/index.html).
 
-##### Statistical Method in Missing Data 
 
 - Huazhen Lin\*, **Wei Liu**, & Wei Lan (2021).   Regression Analysis with individual-specific patterns of missing covariates. Journal of Business & Economic Statistics, 39(1), 179-188. [PDF](https://www.tandfonline.com/doi/full/10.1080/07350015.2019.1635486), [CRAN R package](https://CRAN.R-project.org/package=ILSE), [Github R package](https://github.com/feiyoung/ILSE), and [ILSE's usage and applications](https://feiyoung.github.io/ILSE/index.html).
 
 
 
 ##### Genomics (Dimension reduction or Spatial clustering)
+
+- Xiao Zhang, **Wei Liu**, Fangda Song, Jin Liu, iSC.MEB: an R package for
+multi-sample spatial clustering analysis of spatial transcriptomics
+data, Bioinformatics Advances, 2023;, vbad019,[PDF](https://doi.org/10.1093/bioadv/vbad019), <a href="https://github.com/XiaoZhangryy/iSC.MEB"> Github R package</a>  and [iSC.MEB's usage and applications](https://xiaozhangryy.github.io/iSC.MEB/index.html).
+
+
 -  **Wei Liu**, Liao, X., Luo, Z. et al, Jin Liu\* (2023). Probabilistic embedding, clustering, and alignment for integrating spatial transcriptomics data with PRECAST. Nature Communications, 14, 296. [PDF](https://www.nature.com/articles/s41467-023-35947-w.pdf?pdf=button%20sticky), <a href="https://CRAN.R-project.org/package=PRECAST"> CRAN R package</a>, <a href="https://github.com/feiyoung/PRECAST"> Github R package</a>  and [PRECAST's usage and applications](https://feiyoung.github.io/PRECAST/index.html).
 
 - **Wei Liu**, Xu Liao, Yi Yang, Huazhen Lin, Joe Yeong, Xiang Zhou\*, Xingjie Shi\* & Jin Liu\* (2022). Joint dimension reduction and clustering analysis of single-cell RNA-seq and spatial transcriptomics data, Nucleic Acids Research, gkac219. [PDF](https://doi.org/10.1093/nar/gkac219), <a href="https://CRAN.R-project.org/package=DR.SC"> CRAN R package</a>, <a href="https://github.com/feiyoung/DR.SC"> Github R package</a> and [DR.SC's usage and applications](https://feiyoung.github.io/DR.SC/index.html).
