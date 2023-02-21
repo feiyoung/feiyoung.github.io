@@ -24,7 +24,7 @@ Provinces in China.  <a href="https://www.medrxiv.org/content/10.1101/2020.02.21
 
 
 
-##### Genomics (Dimension reduction or Spatial clustering)
+##### Statistical Genomics (Single-Cell RNA-seq/Spatial transcriptomics)
 
 - Xiao Zhang, **Wei Liu**, Fangda Song, Jin Liu, iSC.MEB: an R package for
 multi-sample spatial clustering analysis of spatial transcriptomics
