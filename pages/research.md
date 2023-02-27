@@ -5,11 +5,23 @@ title: Research
 
 ### Research Interests
 
-My graduate research focus on ...
+My graduate research focuses on Statistical Theory and Methods involving latent factor models and related techniques:
+ 
+- Nonlinear dimension reduction 
+ 
+- Estimation and inference in regression models with missing covariates
+
+- Statistical testing in high-dimensional models
 
 
-I am passionate about a variety of problems related to dimension reduction. I am focusing on 
-developing computational and statistical methods for interpreting high-throughput data of multi modalities, especially spatially resolved transcriptomics data.
+Now, I am passionate about Statistical Genomics to
+develop computational and statistical methods by latent factor models and spatial-related techniques:
+
+- Dimension reduction and clustering for Single cell RNA sequencing data
+
+- Spatial dimension reduction and  clustering for spatially resolved transcriptomics data 
+
+- Integration analysis for  spatially resolved transcriptomics data 
 
 
 
