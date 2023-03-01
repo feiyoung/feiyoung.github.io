@@ -1,11 +1,15 @@
 ---
+title: "Professional Activity"
 layout: page
-title: Professional Activity
 ---
 
 **Member**
 
-- [XXX](https://www.amstat.org/) \(XX\), 2021-2022
+-  International Chinese Statistical Association (ICSA)
+
+- China Society for Industrial and Applied Mathematics (CSIAM)
+
+- Chinese Mathematical Society (CMS)
   
 
 
@@ -13,9 +17,23 @@ title: Professional Activity
 
 *Journals*
 
-- XXX
+- Journal of Business & Economic Statistics
 
-*Conferences*
+- Statistical Theory and Related Fields
+
+- Canadian Journal of Statistics
+
+- Acta Mathematica Sinica (English Series)
+
+- Statistics in Medicine
+
+- Briefings in Bioinformatics
+
+**Conferences**
+
+- The 12th ICSA International Conference, invited as a speaker, 2023, Hong Kong, China
+
+- The 10th Global Young Scholars Forum of Sichuan University, invited as a speaker, 2022, Sichuan, China
 
 - IACMR 2020 COVID-19 Outbreak and Management Special Session, invited as a speaker, 2020, Online.
 
