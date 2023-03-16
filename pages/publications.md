@@ -28,7 +28,7 @@ Provinces in China.  <a href="https://www.medrxiv.org/content/10.1101/2020.02.21
 
 ##### Statistical Genomics (Single-Cell RNA-seq/Spatial transcriptomics)
 
-- Xiao Zhang, **Wei Liu**, Fangda Song, Jin Liu, iSC.MEB: an R package for
+- Xiao Zhang, **Wei Liu**, Fangda Song, Jin Liu\*, iSC.MEB: an R package for
 multi-sample spatial clustering analysis of spatial transcriptomics
 data, Bioinformatics Advances, 2023;, vbad019,[PDF](https://doi.org/10.1093/bioadv/vbad019), <a href="https://github.com/XiaoZhangryy/iSC.MEB"> Github R package</a>  and [iSC.MEB's usage and applications](https://xiaozhangryy.github.io/iSC.MEB/index.html).
 
