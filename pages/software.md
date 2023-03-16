@@ -2,6 +2,9 @@
 layout: page
 title: Software
 ---
+
+- [TOSI](https://github.com/feiyoung/TOSI): TOSI is a package that provides a general framework of two directional simultaneous inference (TOSI) for high-dimensional as well as the fixed dimensional models with manifest variable or latent variable structure, such as high-dimensional mean models, high-dimensional sparse regression models, and high-dimensional latent factor models. Please see the following paper for details: [**Wei Liu**, Huazhen Lin\*, Jin Liu & Shurong Zheng (2023) Two-directional simultaneous inference for high-dimensional models, Journal of Business & Economic Statistics, (Online)](https://doi.org/10.1080/07350015.2023.2191672).
+
 - [iSC.MEB](https://xiaozhangryy.github.io/iSC.MEB/index.html): iSC.MEB is a package for integrating and analyzing multiple spatially resolved transcriptomics (SRT) datasets, which permits the users to simultaneously estimate the batch effect and perform spatial clustering for low-dimensional representations of multiple SRT datasets. Please see the following paper and pakage website for details: [Xiao Zhang, **Wei Liu**, Fangda Song, Jin Liu, iSC.MEB: an R package for multi-sample spatial clustering analysis of spatial transcriptomics data, Bioinformatics Advances, 2023;, vbad019](https://doi.org/10.1093/bioadv/vbad019) and [iSC.MEB's usage and applications](https://xiaozhangryy.github.io/iSC.MEB/index.html).
 
 - [PRECAST](https://github.com/feiyoung/PRECAST): PRECAST is a package for integrating and analyzing multiple spatially resolved transcriptomics (SRT) datasets and unifies spatial factor analysis simultaneously with spatial clustering and embedding alignment, requiring only partially shared cell/domain clusters across datasets. Please see the following paper and pakage website for details: 
