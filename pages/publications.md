@@ -9,7 +9,7 @@ For a list of publications, see also [ResearchGate](https://www.researchgate.net
 
 
 ### Preprint
-- **Wei Liu**, Xiao Zhang, Xiaoran Chai, Zhenqian Fan, Huazhen Lin, Jinmiao Chen, Lei Sun, Tianwei Yu, Joe Yeong, and Jin Liu\*. Fast: a fast and scalable factor analysis for spatially aware  dimension reduction of multi-section spatial transcriptomics data.  <a href="https://doi.org/10.1101/2023.07.11.548486">PDF in biorxiv</a> .  [CRAN R package](https://CRAN.R-project.org/package=ProFAST), [Github R package](https://github.com/feiyoung/ProFAST), and [FAST's usage and applications](https://feiyoung.github.io/ProFAST/).
+- **Wei Liu**, Xiao Zhang<sup>c</sup>, Xiaoran Chai, Zhenqian Fan, Huazhen Lin, Jinmiao Chen, Lei Sun, Tianwei Yu, Joe Yeong, and Jin Liu\*. Fast: a fast and scalable factor analysis for spatially aware  dimension reduction of multi-section spatial transcriptomics data.  <a href="https://doi.org/10.1101/2023.07.11.548486">PDF in biorxiv</a> .  [CRAN R package](https://CRAN.R-project.org/package=ProFAST), [Github R package](https://github.com/feiyoung/ProFAST), and [FAST's usage and applications](https://feiyoung.github.io/ProFAST/).
 
 
 
@@ -38,12 +38,12 @@ For a list of publications, see also [ResearchGate](https://www.researchgate.net
 
 ##### **2. Statistical Genomics (Single-Cell RNA-seq/Spatial transcriptomics)**
 
-- [4] Xiao Zhang, **Wei Liu**, Fangda Song, Jin Liu\*, iSC.MEB: an R package for
+- [4] Xiao Zhang, **Wei Liu**, Fangda Song, Jin Liu\* (2023), iSC.MEB: an R package for
 multi-sample spatial clustering analysis of spatial transcriptomics
-data, *Bioinformatics Advances*, 2023;, vbad019,[PDF](https://doi.org/10.1093/bioadv/vbad019), <a href="https://github.com/XiaoZhangryy/iSC.MEB"> Github R package</a>  and [iSC.MEB's usage and applications](https://xiaozhangryy.github.io/iSC.MEB/index.html).
+data, *Bioinformatics Advances*, vbad019,[PDF](https://doi.org/10.1093/bioadv/vbad019), <a href="https://github.com/XiaoZhangryy/iSC.MEB"> Github R package</a>  and [iSC.MEB's usage and applications](https://xiaozhangryy.github.io/iSC.MEB/index.html).
 
 
-- [3] **Wei Liu**, Xu Liao, Ziye Luo, Yi Yang, Mai Chan Lau, Yuling Jiao, Xingjie Shi, Weiwei Zhai, Hongkai Ji, Joe Yeong, Jin Liu\* (2023). Probabilistic embedding, clustering, and alignment for integrating spatial transcriptomics data with PRECAST. *Nature Communications*, 14, 296. [PDF](https://www.nature.com/articles/s41467-023-35947-w.pdf?pdf=button%20sticky), <a href="https://CRAN.R-project.org/package=PRECAST"> CRAN R package</a>, <a href="https://github.com/feiyoung/PRECAST"> Github R package</a>  and [PRECAST's usage and applications](https://feiyoung.github.io/PRECAST/index.html).
+- [3] **Wei Liu**, Xu Liao <sup>c</sup>, Ziye Luo, Yi Yang, Mai Chan Lau, Yuling Jiao, Xingjie Shi, Weiwei Zhai, Hongkai Ji, Joe Yeong, Jin Liu\* (2023). Probabilistic embedding, clustering, and alignment for integrating spatial transcriptomics data with PRECAST. *Nature Communications*, 14, 296. [PDF](https://www.nature.com/articles/s41467-023-35947-w.pdf?pdf=button%20sticky), <a href="https://CRAN.R-project.org/package=PRECAST"> CRAN R package</a>, <a href="https://github.com/feiyoung/PRECAST"> Github R package</a>  and [PRECAST's usage and applications](https://feiyoung.github.io/PRECAST/index.html).
 
 - [2] **Wei Liu**, Xu Liao, Yi Yang, Huazhen Lin, Joe Yeong, Xiang Zhou\*, Xingjie Shi\* & Jin Liu\* (2022). Joint dimension reduction and clustering analysis of single-cell RNA-seq and spatial transcriptomics data, *Nucleic Acids Research*, gkac219. [PDF](https://doi.org/10.1093/nar/gkac219), <a href="https://CRAN.R-project.org/package=DR.SC"> CRAN R package</a>, <a href="https://github.com/feiyoung/DR.SC"> Github R package</a> and [DR.SC's usage and applications](https://feiyoung.github.io/DR.SC/index.html).
 
@@ -67,4 +67,4 @@ Provinces in China.  <a href="https://www.medrxiv.org/content/10.1101/2020.02.21
 
 
 
-##### \* Corresponding author.
+##### \* Corresponding author, <sup>c</sup> co-first author.

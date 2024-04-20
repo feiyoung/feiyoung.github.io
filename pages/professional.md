@@ -29,6 +29,10 @@ layout: page
 
 - Briefings in Bioinformatics
 
+- Nature Communications
+
+- Genome Biology
+
 **Conferences**
 
 - The 12th ICSA International Conference, invited as a speaker, 2023, Hong Kong, China
