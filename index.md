@@ -6,15 +6,15 @@ layout: page
 
 ### Working Experience
 
-- I am a Professor(特聘研究员), at [School of Mathematics](https://math.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/) (2024.04-Present).
+- 2024.04-Present, Professor(特聘研究员),  [School of Mathematics](https://math.scu.edu.cn/),  [Sichuan University](https://www.scu.edu.cn/) .
 
-- I obtain postdoctoral fellow research traning in [Duke-NUS Medical School](https://www.duke-nus.edu.sg/), [National University of Singapore](), mentored by [Prof. Jin Liu](https://blog.nus.edu.sg/jinliu/) (2021.03-2024.03).
+- 2021.03-2024.03, Research fellow,  [Duke-NUS Medical School](https://www.duke-nus.edu.sg/), [National University of Singapore](), collaborative advisor: [Prof. Jin Liu](https://blog.nus.edu.sg/jinliu/) .
 
 ### Education
 
-- I received my PhD in [Statistics](https://csr.swufe.edu.cn/) with University Postgraduate Fellowships (UPF) and [Postgraduate Scholarship (PGS)] from [Center of Statistic Research](https://csr.swufe.edu.cn/) and [School of Statistics](https://stat.swufe.edu.cn/), [Southwestern University of Finance and Economics](https://www.swufe.edu.cn/) under the supervision of [Prof. Huazhen Lin](https://csr.swufe.edu.cn/) (2015-2020).
+- 2015-2020, PhD in [Statistics](https://csr.swufe.edu.cn/),  [Center of Statistic Research](https://csr.swufe.edu.cn/) and [School of Statistics](https://stat.swufe.edu.cn/), [Southwestern University of Finance and Economics](https://www.swufe.edu.cn/),  supervisor: [Prof. Huazhen Lin](https://csr.swufe.edu.cn/) .
 
-- I obtained my B.S. in [Mathmatics](http://math.swu.edu.cn/) with outstanding graduate from [School of Mathematics and Statistics](http://math.swu.edu.cn/), [Southwest University](http://www.swu.edu.cn/) (2011-2015).
+- 2011-2015,  B.S. in [Mathmatics](http://math.swu.edu.cn/),  [School of Mathematics and Statistics](http://math.swu.edu.cn/), [Southwest University](http://www.swu.edu.cn/).
 
 
 
