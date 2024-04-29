@@ -14,7 +14,7 @@ For a list of publications, see also [ResearchGate](https://www.researchgate.net
 
 
 
-### Publication(selectd)
+### Publication(selected)
 ##### **1. Statistical Method and Thoery**
 
 - [7] **Wei Liu**, Qingzhi Zhong\* (2024). High-dimensional covariate-augmented Overdispersed Poisson factor models. *Biometrics*, Accepted,  <a href="https://arxiv.org/abs/2402.15071">PDF in arxiV</a>. [CRAN R package](https://CRAN.R-project.org/package=COAP), [Github R package](https://github.com/feiyoung/COAP), and [COAP's usage and applications](https://feiyoung.github.io/COAP/).
