@@ -19,7 +19,7 @@ For a list of publications, see also [ResearchGate](https://www.researchgate.net
 
 - [7] **Wei Liu**, Qingzhi Zhong\* (2024). High-dimensional covariate-augmented Overdispersed Poisson factor models. *Biometrics*, 80(2), ujae031, <a href="https://doi.org/10.1093/biomtc/ujae031"> PDF in Biometrics</a>,  <a href="https://arxiv.org/abs/2402.15071">PDF in arxiV</a>. [CRAN R package](https://CRAN.R-project.org/package=COAP), [Github R package](https://github.com/feiyoung/COAP), and [COAP's usage and applications](https://feiyoung.github.io/COAP/).
 
-- [6] **Wei Liu**, Lan Luo, Ling Zhou\* (2024). High-dimensional large-scale mixed-type data imputation under missing at random. *SCIENCE CHINA Mathematics*. Accepted, [Github Matlab tool](https://github.com/feiyoung/MIG)
+- [6] **Wei Liu**, Guizhen Li, Lan Luo, Ling Zhou\* (2024). High-dimensional large-scale mixed-type data imputation under missing at random. *SCIENCE CHINA Mathematics*. Accepted, [Github Matlab tool](https://github.com/feiyoung/MIG)
 
 - [5] **Wei Liu**, Lan Luo\*, Ling Zhou\* (2023). Online missing value imputation for high-dimensional mixed data via generalized factor models. *Computational Statistics & Data Analysis*, 187, 107822 [PDF](https://www.sciencedirect.com/science/article/pii/S0167947323001330), [Github R package](https://github.com/feiyoung/OMIG)
 
