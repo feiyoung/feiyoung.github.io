@@ -7,31 +7,29 @@ title: Research
 
 My main research focuses on Statistical Theory and Methods and Statistical Genomics.  
 
-- In the realm of Statistical Theory and Methods, my research interests lie in the development of innovative methodologies pertaining to latent factor models and reduced rank regression models. My goal is to address challenges related to variable type heterogeneity, nonlinear dependence, overdispersion, sparsity, individual spatial dependence, and supervised feature extraction. Through these efforts, I aim to enhance our understanding of complex statistical issues and pave the way for more accurate and effective statistical analysis.
+- In the realm of Statistical Theory and Methods, my research interests lie in the development of innovative methodologies pertaining to missing data analyisis, latent variable models and multi-response regression models. My goal is to address challenges related to variable type heterogeneity, nonlinear dependence, overdispersion, sparsity, individual spatial dependence, and supervised feature extraction. Through these efforts, I aim to enhance our understanding of complex statistical issues and pave the way for more accurate and effective statistical analysis.
 
 -  The Statistical Genomics I am studying falls under the umbrella of AI for Science. My primary focus lies in applying artificial intelligence (AI) techniques, such as Deep Learning and modern statistical machine learning, to scientific research and discovery, particularly in Genomics. This involves utilizing AI algorithms, machine learning, and data analytics to meticulously analyze vast amounts of scientific data, detect patterns and trends, make accurate predictions, and automate scientific processes. My specialization lies in developing computational algorithms and statistical methods aimed at addressing frontier issues in genomics, including resolving tissue heterogeneity, pinpointing marker/signature genes, refining expression patterns, and integrating multi-section and multi-modality data.
 
 - **Statistical Theory and Methods**
  
-  - Nonlinear dimension reduction 
+  - Vector/matrix/tensor data analysis via latent variable models 
    
-  - Estimation and inference in regression models with missing covariates
+  - Missing data analysis
   
-  - Online methods for multi-response reduced rank regression
+  - Multi-repsonse regression analysis
 
 - **Statistical Genomics**
 
   - Tissue heterogeneity analysis 
   
   
-  - Multi-section integration analysis
+  - Multi-section/modality integration analysis
    
-  
-  - Multi-modality integration analysis
     
-  - Coembedding 
+  - Cell-gene relationship modelling 
   
-  - Expression enhancement
+  - Dissecting mechnisms in disease (i.e., tumour immunology)
 
 
 
