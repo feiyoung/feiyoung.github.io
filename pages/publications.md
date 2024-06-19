@@ -43,7 +43,7 @@ For a list of publications, see also [ResearchGate](https://www.researchgate.net
 
 
 ### Posters
-- Our [PRECAST](https://doi.org/10.1038/s41467-023-35947-w) method is recognized as the representative method for spatial domain identification in a [Science paper](https://www.science.org/doi/10.1126/science.adh1938). Date: 2023-01-20.
+- Our [PRECAST](https://doi.org/10.1038/s41467-023-35947-w) method is recognized as the representative method for spatial domain identification in a [Science paper](https://www.science.org/doi/10.1126/science.adh1938). Date: 2024-05-24.
 
 
 - A computational framework for integrating and analyzing multiple spatially resolved transcriptomics (SRT) datasets, callded PRECAST published on [Nature Communications](https://doi.org/10.1038/s41467-023-35947-w). Date: 2023-01-20.
