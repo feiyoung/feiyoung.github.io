@@ -1,20 +1,24 @@
 ---
 layout: page
-title: Life
+title: Group memebers
 ---
 
 
-### Hobbies
+### Join our research group
 
-**Sports**: Swimming, Playing basketball, badminton, table tennis; Chinese kung fu
+We warmly welcome undergraduates majored in 
 
-**Art**: Playing the flute
+ - **mathematics** 
+ 
+ - **statistics**
+ 
+ - **computer science**
+ 
+ - **compuational biology**
+ 
+to join our research group, and also welcome you to apply for my graduate program.
 
-### Language
-**Native**: Chinese
-
-**Foreign**: English
-
+If you are interested in joining our group, please send your CV to me!
 
 
 

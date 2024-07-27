@@ -35,6 +35,12 @@ layout: page
 
 **Conferences**
 
+- The 7th International Conference on Econometrics and Statistics, invited as a speaker, 2024, Beijing, China
+
+- The second Joint Conference on Statistics and Data Science in China, contributed session, 2024, Kunming, China
+
+- The 26th Annual Conference of China Association for Science and Technology: Multi-omics Big Data and Medical Development Forum, invited as special guest, 2024, Nanning, China.
+
 - The 12th ICSA International Conference, invited as a speaker, 2023, Hong Kong, China
 
 - The 10th Global Young Scholars Forum of Sichuan University, invited as a speaker, 2022, Sichuan, China
