@@ -30,6 +30,8 @@ We warmly welcome undergraduates majored in
  
 to join our research group, and also welcome you to apply for my graduate program.
 
+We warmly welcome PhD candidates who have applied to the [postdoctoral program](https://mp.weixin.qq.com/s/Z-UTtKm4AU22LPkCSrR_sQ) offered by the School of Mathematics at Sichuan University.
+
 If you are interested in joining our group, please send your CV to me!
 
 
