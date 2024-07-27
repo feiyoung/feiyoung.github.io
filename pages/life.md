@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Group memebers
+title: "Group memebers"
 ---
 
 
