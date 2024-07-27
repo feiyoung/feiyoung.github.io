@@ -16,6 +16,21 @@ layout: page
 
 - 2011-2015,  B.S. in [Mathmatics](http://math.swu.edu.cn/),  [School of Mathematics and Statistics](http://math.swu.edu.cn/), [Southwest University](http://www.swu.edu.cn/).
 
+### Join our research group
+
+We warmly welcome undergraduates majored in 
+
+ - **mathematics** 
+ 
+ - **statistics**
+ 
+ - **computer science**
+ 
+ - **compuational biology**
+ 
+to join our research group, and also welcome you to apply for my graduate program.
+
+If you are interested in joining our group, please send your CV to me!
 
 
 ### Contact

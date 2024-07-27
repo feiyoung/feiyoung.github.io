@@ -1,24 +1,22 @@
 ---
 layout: page
-title: "Group memebers"
+title: "Life"
 ---
 
 
-### Join our research group
+### Hobbies
 
-We warmly welcome undergraduates majored in 
 
- - **mathematics** 
+ - **Swimming** 
  
- - **statistics**
+ - **Badminton**
  
- - **computer science**
+ - **Chinese Poem**
  
- - **compuational biology**
+ - "History"
  
-to join our research group, and also welcome you to apply for my graduate program.
 
-If you are interested in joining our group, please send your CV to me!
+ 
 
 
 
